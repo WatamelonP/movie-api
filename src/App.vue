@@ -1,6 +1,6 @@
 <script setup>
 import './style.css'
-import NavbarComponent from './components/NavbarComponent.vue';
+import NavbarComponent from './components/NavBarComponent.vue';
 import { useGlobalStore } from './stores/global.js';
 import { onBeforeMount } from 'vue';
 import { ref } from 'vue'
